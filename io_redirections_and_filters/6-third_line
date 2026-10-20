@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir iacta
-touch iacta.txt
+head -n 3 iacta | tail -n 1 
