@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Hello"
-cut -d ':' -f 5 /etc/passwd
+echo /etc/passwd
