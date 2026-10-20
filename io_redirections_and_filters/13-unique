@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -n I1 O1
+sort | uniq -u
