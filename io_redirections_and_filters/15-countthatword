@@ -1,2 +1,2 @@
 #!/bin/bash
-sort bin.txt
+grep -c 'bin' /etc/passwd
