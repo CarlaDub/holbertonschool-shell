@@ -1,4 +1,4 @@
-#!bin/bash
-export POWER=22
-export DIVIDE=10
-echo $(($POWER=DIVIDE))
+#!/bin/bash
+export POWER=42784
+export DIVIDE=32
+echo $((POWER / DIVIDE)) 
