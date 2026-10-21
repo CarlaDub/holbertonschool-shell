@@ -1,4 +1,3 @@
 #!/bin/bash
-mkdir BEST
-touch School.txt
 export NAME="BEST"
+echo "$NAME"
